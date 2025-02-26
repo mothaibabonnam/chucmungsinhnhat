@@ -8,6 +8,13 @@ body {
 	transition:background-color linear 5s;
 	overflow-x:hidden;
 }
+
+
+/*my code*/
+.btn-primary{
+    margin-bottom: 50px;
+}
+
 .container {
 	display: none;
 }
